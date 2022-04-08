@@ -1,8 +1,8 @@
-### NC habitat file generation for BeeHAVE
+### Habitat generation file for BEEHAVE and BeePop+ comparison
 
 ###01 Study Area
 
-#Edited by E. Paulukonis Nov 2021
+#Edited by E. Paulukonis April 2022
 
 import_start_time <- Sys.time()
 print("stepping into 01_study_area.R")
@@ -54,7 +54,20 @@ lc_buffer_n<-lc_buffer_n %>%  #get total area of land cover within each 1 mile r
 lc_buffer_n$AreaClass<-lc_buffer_n$count*900
 lc_buffer_n$prop<-(lc_buffer_n$AreaClass/lc_buffer_n$AreaTotal)*100
 
-#write a csv to output proptional data
+#look at average lc proportion by apiary
+average_lc<-lc_buffer_n %>%
+  group_by(Class) %>%
+  summarise(avg = mean(prop), std= sd(prop)) 
+average_lc
+
+#plot the apiaries, 
+plot(ap_pts, pch=16, add=T)
+plot(lc_data_sf, add=T) 
+apiaries<-unique(lc_buffer_n$names_ap)
+text(ap_pts, labels=apiaries, pos = 4, offset = 0.7)
+
+
+#write a csv to output proportional data, if needed
 write.csv(lc_buffer_n, paste0(root_data_out,"/landcover_data_1m.csv")) # comment out accorinding to which distance 
 # write.csv(lc_buffer_n, paste0(root_data_out,"/landcover_data_3m.csv"))
 # write.csv(lc_buffer_n, paste0(root_data_out,"/landcover_data_5m.csv"))

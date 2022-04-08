@@ -1,8 +1,8 @@
-### NC habitat file generation for BeeHAVE
+### Habitat generation file for BEEHAVE and BeePop+ comparison
 
 ###00 Setup of directories and file paths
 
-#Edited by E. Paulukonis Nov 2021
+#Edited by E. Paulukonis April 2022
 
 
 #Install and load supporting libraries.
@@ -25,7 +25,7 @@ library(stars)
 who_is_running<-'eap'
 #who_is_running<-'stp'
 if(Sys.info()[4]=="LZ26EPAULUKO"){
-  root_dir <- 'C:/Users/epauluko/OneDrive - Environmental Protection Agency (EPA)/Profile/Documents/Paulukonis_Documents/manuscript_BEEHAVE/HabitatFile_NC'
+  root_dir <- 'C:/Users/epauluko/OneDrive - Environmental Protection Agency (EPA)/Profile/Documents/GitHub/pollinator_foraging/Comparison_BHBP'
 }else{
   root_dir <- file.path("/work", "HONEYBEE", who_is_running, "BeeHave_BBPN")
 }
@@ -43,6 +43,3 @@ print(root_src)
 
 #source other files
 #source(file.path(root_src, "01_study_area.R"))
-#source(file.path(root_src, "02_cluster_analysis.R"))
-#source(file.path(root_src, "03_sample_patches.R"))
-#source(file.path(root_src, "04_pollen_uptake.R"))
