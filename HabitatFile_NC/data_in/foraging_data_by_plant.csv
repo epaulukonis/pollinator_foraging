@@ -1,0 +1,18 @@
+Plant,Flower_density_flowers_per_m2,Flowering _period,N_days,Pollen_per_flower_per_day_ug,Nectar_per_flower_per_day_ul,Pollen_g_m2,Nectar_ml_per_m2,Nectar_sugar_concentration_mol_per_l,Calendar_start,Calendar_end
+magnolia,,1 April-1 July,,,,0.2,0.2,1.5,91,182
+clover,,1 May - 30 July,,,,0.2,0.2,1.5,121,212
+crepe myrtle,,15 May - 15 August,,,,0.2,0.2,1.5,135,237
+plantain,,1 June - August 30,,,,0.2,0.2,1.5,152,243
+muscadine,,1-June-June 30,,,,0.2,0.2,1.5,152,181
+creeper,,1 June - 30 July,,,,0.2,0.2,1.5,152,212
+chicory,,1 June - August 30,,,,0.2,0.2,1.5,152,243
+pigweed,,1 June - Sep 15,,,,0.2,0.2,1.5,152,258
+other,,June 1 - Oct 31,,,,0.2,0.2,1.5,152,304
+pea,519,15 June-15 July,30,195,0.228,0.101205,0.118332,0.768,167,197
+sumac,,July 18 - Aug 30,,,,0.2,0.2,1.5,199,243
+corn,8,22 July-3 August,13,0.000043,0,3.44E-10,0,0,204,216
+goldenrod,,31 July - October 31,,,,0.2,0.2,1.5,212,304
+ragweed,,1 Aug - Sep 15,,,,0.2,0.2,1.5,213,258
+grass,,Aug 1 - 30 Sept,,,,0.2,0.2,1.5,213,273
+marshelder,,Aug 13 - 30 Sept,,,,0.2,0.2,1.5,225,273
+lily,,Sept 1 - 30 Sept,,,,0.2,0.2,1.5,243,273

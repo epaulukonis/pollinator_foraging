@@ -1,0 +1,321 @@
+LC_Class,SubClass,CDLClass,CDLName,DateCode,Common
+Cultivated Crops,1,1,LC_1,0,none
+Cultivated Crops,1,1,LC_1,1,clover
+Cultivated Crops,1,1,LC_1,1,corn
+Cultivated Crops,1,1,LC_1,1,muscadine
+Cultivated Crops,1,1,LC_1,1,plantain
+Cultivated Crops,1,1,LC_1,2,clover
+Cultivated Crops,1,1,LC_1,2,corn
+Cultivated Crops,1,1,LC_1,2,other
+Cultivated Crops,1,1,LC_1,2,pigweed
+Cultivated Crops,1,1,LC_1,2,plantain
+Cultivated Crops,1,1,LC_1,3,clover
+Cultivated Crops,1,1,LC_1,3,corn
+Cultivated Crops,1,1,LC_1,3,other
+Cultivated Crops,1,1,LC_1,3,pigweed
+Cultivated Crops,1,1,LC_1,3,plantain
+Cultivated Crops,1,1,LC_1,4,other
+Cultivated Crops,1,1,LC_1,4,pigweed
+Cultivated Crops,1,1,LC_1,4,plantain
+Cultivated Crops,1,1,LC_1,4,ragweed
+Cultivated Crops,1,1,LC_1,5,other
+Cultivated Crops,1,1,LC_1,5,pigweed
+Cultivated Crops,1,1,LC_1,5,ragweed
+Cultivated Crops,1,1,LC_1,6,other
+Cultivated Crops,1,1,LC_1,6,pigweed
+Cultivated Crops,1,1,LC_1,6,ragweed
+Cultivated Crops,1,1,LC_1,7,other
+"Developed, Open Space",4,121,LC_121,0,none
+"Developed, Open Space",4,121,LC_121,1,chicory
+"Developed, Open Space",4,121,LC_121,1,clover
+"Developed, Open Space",4,121,LC_121,1,creeper
+"Developed, Open Space",4,121,LC_121,1,crepe myrtle
+"Developed, Open Space",4,121,LC_121,1,plantain
+"Developed, Open Space",4,121,LC_121,1,plantain
+"Developed, Open Space",4,121,LC_121,2,chicory
+"Developed, Open Space",4,121,LC_121,2,clover
+"Developed, Open Space",4,121,LC_121,2,creeper
+"Developed, Open Space",4,121,LC_121,2,crepe myrtle
+"Developed, Open Space",4,121,LC_121,2,goldenrod
+"Developed, Open Space",4,121,LC_121,2,other
+"Developed, Open Space",4,121,LC_121,2,pigweed
+"Developed, Open Space",4,121,LC_121,2,plantain
+"Developed, Open Space",4,121,LC_121,2,plantain
+"Developed, Open Space",4,121,LC_121,3,chicory
+"Developed, Open Space",4,121,LC_121,3,clover
+"Developed, Open Space",4,121,LC_121,3,creeper
+"Developed, Open Space",4,121,LC_121,3,crepe myrtle
+"Developed, Open Space",4,121,LC_121,3,goldenrod
+"Developed, Open Space",4,121,LC_121,3,other
+"Developed, Open Space",4,121,LC_121,3,pigweed
+"Developed, Open Space",4,121,LC_121,3,plantain
+"Developed, Open Space",4,121,LC_121,3,plantain
+"Developed, Open Space",4,121,LC_121,4,chicory
+"Developed, Open Space",4,121,LC_121,4,crepe myrtle
+"Developed, Open Space",4,121,LC_121,4,goldenrod
+"Developed, Open Space",4,121,LC_121,4,lily
+"Developed, Open Space",4,121,LC_121,4,other
+"Developed, Open Space",4,121,LC_121,4,pigweed
+"Developed, Open Space",4,121,LC_121,4,plantain
+"Developed, Open Space",4,121,LC_121,4,plantain
+"Developed, Open Space",4,121,LC_121,4,ragweed
+"Developed, Open Space",4,121,LC_121,4,sumac
+"Developed, Open Space",4,121,LC_121,5,goldenrod
+"Developed, Open Space",4,121,LC_121,5,lily
+"Developed, Open Space",4,121,LC_121,5,marshelder
+"Developed, Open Space",4,121,LC_121,5,other
+"Developed, Open Space",4,121,LC_121,5,pigweed
+"Developed, Open Space",4,121,LC_121,5,ragweed
+"Developed, Open Space",4,121,LC_121,5,sumac
+"Developed, Open Space",4,121,LC_121,6,goldenrod
+"Developed, Open Space",4,121,LC_121,6,lily
+"Developed, Open Space",4,121,LC_121,6,marshelder
+"Developed, Open Space",4,121,LC_121,6,other
+"Developed, Open Space",4,121,LC_121,6,pigweed
+"Developed, Open Space",4,121,LC_121,6,ragweed
+"Developed, Open Space",4,121,LC_121,6,sumac
+"Developed, Open Space",4,121,LC_121,7,goldenrod
+"Developed, Open Space",4,121,LC_121,7,other
+"Developed, Low Intensity",5,122,LC_122,0,none
+"Developed, Low Intensity",5,122,LC_122,1,chicory
+"Developed, Low Intensity",5,122,LC_122,1,clover
+"Developed, Low Intensity",5,122,LC_122,1,creeper
+"Developed, Low Intensity",5,122,LC_122,1,crepe myrtle
+"Developed, Low Intensity",5,122,LC_122,2,chicory
+"Developed, Low Intensity",5,122,LC_122,2,clover
+"Developed, Low Intensity",5,122,LC_122,2,creeper
+"Developed, Low Intensity",5,122,LC_122,2,crepe myrtle
+"Developed, Low Intensity",5,122,LC_122,2,goldenrod
+"Developed, Low Intensity",5,122,LC_122,2,other
+"Developed, Low Intensity",5,122,LC_122,2,pigweed
+"Developed, Low Intensity",5,122,LC_122,3,chicory
+"Developed, Low Intensity",5,122,LC_122,3,clover
+"Developed, Low Intensity",5,122,LC_122,3,creeper
+"Developed, Low Intensity",5,122,LC_122,3,crepe myrtle
+"Developed, Low Intensity",5,122,LC_122,3,goldenrod
+"Developed, Low Intensity",5,122,LC_122,3,other
+"Developed, Low Intensity",5,122,LC_122,3,pigweed
+"Developed, Low Intensity",5,122,LC_122,4,chicory
+"Developed, Low Intensity",5,122,LC_122,4,crepe myrtle
+"Developed, Low Intensity",5,122,LC_122,4,goldenrod
+"Developed, Low Intensity",5,122,LC_122,4,lily
+"Developed, Low Intensity",5,122,LC_122,4,other
+"Developed, Low Intensity",5,122,LC_122,4,pigweed
+"Developed, Low Intensity",5,122,LC_122,4,ragweed
+"Developed, Low Intensity",5,122,LC_122,4,sumac
+"Developed, Low Intensity",5,122,LC_122,5,goldenrod
+"Developed, Low Intensity",5,122,LC_122,5,lily
+"Developed, Low Intensity",5,122,LC_122,5,marshelder
+"Developed, Low Intensity",5,122,LC_122,5,other
+"Developed, Low Intensity",5,122,LC_122,5,pigweed
+"Developed, Low Intensity",5,122,LC_122,5,ragweed
+"Developed, Low Intensity",5,122,LC_122,5,sumac
+"Developed, Low Intensity",5,122,LC_122,6,goldenrod
+"Developed, Low Intensity",5,122,LC_122,6,lily
+"Developed, Low Intensity",5,122,LC_122,6,marshelder
+"Developed, Low Intensity",5,122,LC_122,6,other
+"Developed, Low Intensity",5,122,LC_122,6,pigweed
+"Developed, Low Intensity",5,122,LC_122,6,ragweed
+"Developed, Low Intensity",5,122,LC_122,6,sumac
+"Developed, Low Intensity",5,122,LC_122,7,goldenrod
+"Developed, Low Intensity",5,122,LC_122,7,other
+"Developed, Medium Intensity",6,123,LC_123,0,none
+"Developed, Medium Intensity",6,123,LC_123,1,crepe myrtle
+"Developed, Medium Intensity",6,123,LC_123,2,crepe myrtle
+"Developed, Medium Intensity",6,123,LC_123,2,other
+"Developed, Medium Intensity",6,123,LC_123,3,crepe myrtle
+"Developed, Medium Intensity",6,123,LC_123,3,other
+"Developed, Medium Intensity",6,123,LC_123,4,crepe myrtle
+"Developed, Medium Intensity",6,123,LC_123,4,lily
+"Developed, Medium Intensity",6,123,LC_123,4,other
+"Developed, Medium Intensity",6,123,LC_123,4,ragweed
+"Developed, Medium Intensity",6,123,LC_123,5,lily
+"Developed, Medium Intensity",6,123,LC_123,5,other
+"Developed, Medium Intensity",6,123,LC_123,5,ragweed
+"Developed, Medium Intensity",6,123,LC_123,6,lily
+"Developed, Medium Intensity",6,123,LC_123,6,other
+"Developed, Medium Intensity",6,123,LC_123,6,ragweed
+"Developed, Medium Intensity",6,123,LC_123,7,other
+"Developed, High Intensity",7,124,LC_124,0,none
+"Developed, High Intensity",7,124,LC_124,1,crepe myrtle
+"Developed, High Intensity",7,124,LC_124,2,crepe myrtle
+"Developed, High Intensity",7,124,LC_124,2,other
+"Developed, High Intensity",7,124,LC_124,3,crepe myrtle
+"Developed, High Intensity",7,124,LC_124,3,other
+"Developed, High Intensity",7,124,LC_124,4,crepe myrtle
+"Developed, High Intensity",7,124,LC_124,4,lily
+"Developed, High Intensity",7,124,LC_124,4,other
+"Developed, High Intensity",7,124,LC_124,4,ragweed
+"Developed, High Intensity",7,124,LC_124,5,lily
+"Developed, High Intensity",7,124,LC_124,5,other
+"Developed, High Intensity",7,124,LC_124,5,ragweed
+"Developed, High Intensity",7,124,LC_124,6,lily
+"Developed, High Intensity",7,124,LC_124,6,other
+"Developed, High Intensity",7,124,LC_124,6,ragweed
+"Developed, High Intensity",7,124,LC_124,7,other
+Barren,8,131,LC_131,0,none
+Barren,8,131,LC_131,1,creeper
+Barren,8,131,LC_131,2,creeper
+Barren,8,131,LC_131,2,other
+Barren,8,131,LC_131,3,other
+Barren,8,131,LC_131,4,other
+Barren,8,131,LC_131,5,other
+Barren,8,131,LC_131,6,other
+Barren,8,131,LC_131,7,other
+Deciduous Forest,9,141,LC_141,0,none
+Deciduous Forest,9,141,LC_141,1,creeper
+Deciduous Forest,9,141,LC_141,1,crepe myrtle
+Deciduous Forest,9,141,LC_141,1,muscadine
+Deciduous Forest,9,141,LC_141,2,creeper
+Deciduous Forest,9,141,LC_141,2,crepe myrtle
+Deciduous Forest,9,141,LC_141,2,goldenrod
+Deciduous Forest,9,141,LC_141,2,other
+Deciduous Forest,9,141,LC_141,2,pigweed
+Deciduous Forest,9,141,LC_141,3,creeper
+Deciduous Forest,9,141,LC_141,3,crepe myrtle
+Deciduous Forest,9,141,LC_141,3,goldenrod
+Deciduous Forest,9,141,LC_141,3,other
+Deciduous Forest,9,141,LC_141,3,pigweed
+Deciduous Forest,9,141,LC_141,4,crepe myrtle
+Deciduous Forest,9,141,LC_141,4,goldenrod
+Deciduous Forest,9,141,LC_141,4,other
+Deciduous Forest,9,141,LC_141,4,pigweed
+Deciduous Forest,9,141,LC_141,5,goldenrod
+Deciduous Forest,9,141,LC_141,5,other
+Deciduous Forest,9,141,LC_141,5,pigweed
+Deciduous Forest,9,141,LC_141,6,goldenrod
+Deciduous Forest,9,141,LC_141,6,other
+Deciduous Forest,9,141,LC_141,6,pigweed
+Deciduous Forest,9,141,LC_141,7,goldenrod
+Deciduous Forest,9,141,LC_141,7,other
+Evergreen Forest,10,142,LC_142,0,none
+Evergreen Forest,10,142,LC_142,1,creeper
+Evergreen Forest,10,142,LC_142,2,creeper
+Evergreen Forest,10,142,LC_142,2,other
+Evergreen Forest,10,142,LC_142,3,other
+Evergreen Forest,10,142,LC_142,4,other
+Evergreen Forest,10,142,LC_142,5,other
+Evergreen Forest,10,142,LC_142,6,other
+Evergreen Forest,10,142,LC_142,7,other
+Mixed Forest,11,143,LC_143,0,none
+Mixed Forest,11,143,LC_143,1,creeper
+Mixed Forest,11,143,LC_143,1,magnolia
+Mixed Forest,11,143,LC_143,2,creeper
+Mixed Forest,11,143,LC_143,2,goldenrod
+Mixed Forest,11,143,LC_143,2,magnolia
+Mixed Forest,11,143,LC_143,2,other
+Mixed Forest,11,143,LC_143,2,pigweed
+Mixed Forest,11,143,LC_143,3,creeper
+Mixed Forest,11,143,LC_143,3,goldenrod
+Mixed Forest,11,143,LC_143,3,magnolia
+Mixed Forest,11,143,LC_143,3,other
+Mixed Forest,11,143,LC_143,3,pigweed
+Mixed Forest,11,143,LC_143,4,goldenrod
+Mixed Forest,11,143,LC_143,4,other
+Mixed Forest,11,143,LC_143,4,pigweed
+Mixed Forest,11,143,LC_143,5,goldenrod
+Mixed Forest,11,143,LC_143,5,other
+Mixed Forest,11,143,LC_143,5,pea
+Mixed Forest,11,143,LC_143,5,pigweed
+Mixed Forest,11,143,LC_143,6,goldenrod
+Mixed Forest,11,143,LC_143,6,other
+Mixed Forest,11,143,LC_143,6,pea
+Mixed Forest,11,143,LC_143,6,pigweed
+Mixed Forest,11,143,LC_143,7,goldenrod
+Mixed Forest,11,143,LC_143,7,other
+Shrubland,3,152,LC_152,0,none
+Shrubland,3,152,LC_152,1,clover
+Shrubland,3,152,LC_152,2,clover
+Shrubland,3,152,LC_152,2,other
+Shrubland,3,152,LC_152,3,clover
+Shrubland,3,152,LC_152,3,other
+Shrubland,3,152,LC_152,4,grass
+Shrubland,3,152,LC_152,4,other
+Shrubland,3,152,LC_152,4,sumac
+Shrubland,3,152,LC_152,5,grass
+Shrubland,3,152,LC_152,5,marshelder
+Shrubland,3,152,LC_152,5,other
+Shrubland,3,152,LC_152,5,sumac
+Shrubland,3,152,LC_152,6,grass
+Shrubland,3,152,LC_152,6,marshelder
+Shrubland,3,152,LC_152,6,other
+Shrubland,3,152,LC_152,6,sumac
+Shrubland,3,152,LC_152,7,other
+Grassland/Pasture,2,176,LC_176,1,chicory
+Grassland/Pasture,2,176,LC_176,1,clover
+Grassland/Pasture,2,176,LC_176,1,plantain
+Grassland/Pasture,2,176,LC_176,2,chicory
+Grassland/Pasture,2,176,LC_176,2,clover
+Grassland/Pasture,2,176,LC_176,2,goldenrod
+Grassland/Pasture,2,176,LC_176,2,other
+Grassland/Pasture,2,176,LC_176,2,pigweed
+Grassland/Pasture,2,176,LC_176,2,plantain
+Grassland/Pasture,2,176,LC_176,3,chicory
+Grassland/Pasture,2,176,LC_176,3,clover
+Grassland/Pasture,2,176,LC_176,3,goldenrod
+Grassland/Pasture,2,176,LC_176,3,other
+Grassland/Pasture,2,176,LC_176,3,pigweed
+Grassland/Pasture,2,176,LC_176,3,plantain
+Grassland/Pasture,2,176,LC_176,4,chicory
+Grassland/Pasture,2,176,LC_176,4,goldenrod
+Grassland/Pasture,2,176,LC_176,4,grass
+Grassland/Pasture,2,176,LC_176,4,lily
+Grassland/Pasture,2,176,LC_176,4,other
+Grassland/Pasture,2,176,LC_176,4,pigweed
+Grassland/Pasture,2,176,LC_176,4,plantain
+Grassland/Pasture,2,176,LC_176,4,ragweed
+Grassland/Pasture,2,176,LC_176,5,goldenrod
+Grassland/Pasture,2,176,LC_176,5,grass
+Grassland/Pasture,2,176,LC_176,5,lily
+Grassland/Pasture,2,176,LC_176,5,marshelder
+Grassland/Pasture,2,176,LC_176,5,other
+Grassland/Pasture,2,176,LC_176,5,pea
+Grassland/Pasture,2,176,LC_176,5,pigweed
+Grassland/Pasture,2,176,LC_176,5,ragweed
+Grassland/Pasture,2,176,LC_176,6,goldenrod
+Grassland/Pasture,2,176,LC_176,6,grass
+Grassland/Pasture,2,176,LC_176,6,lily
+Grassland/Pasture,2,176,LC_176,6,marshelder
+Grassland/Pasture,2,176,LC_176,6,other
+Grassland/Pasture,2,176,LC_176,6,pea
+Grassland/Pasture,2,176,LC_176,6,pigweed
+Grassland/Pasture,2,176,LC_176,6,ragweed
+Grassland/Pasture,2,176,LC_176,7,goldenrod
+Grassland/Pasture,2,176,LC_176,7,other
+Grassland/Pasture/Hay,2,176,LC_176,0,none
+Woody Wetlands,12,190,LC_190,0,none
+Woody Wetlands,12,190,LC_190,1,clover
+Woody Wetlands,12,190,LC_190,1,magnolia
+Woody Wetlands,12,190,LC_190,2,clover
+Woody Wetlands,12,190,LC_190,2,goldenrod
+Woody Wetlands,12,190,LC_190,2,magnolia
+Woody Wetlands,12,190,LC_190,2,other
+Woody Wetlands,12,190,LC_190,3,clover
+Woody Wetlands,12,190,LC_190,3,goldenrod
+Woody Wetlands,12,190,LC_190,3,magnolia
+Woody Wetlands,12,190,LC_190,3,other
+Woody Wetlands,12,190,LC_190,4,goldenrod
+Woody Wetlands,12,190,LC_190,4,other
+Woody Wetlands,12,190,LC_190,4,sumac
+Woody Wetlands,12,190,LC_190,5,goldenrod
+Woody Wetlands,12,190,LC_190,5,marshelder
+Woody Wetlands,12,190,LC_190,5,other
+Woody Wetlands,12,190,LC_190,5,sumac
+Woody Wetlands,12,190,LC_190,6,goldenrod
+Woody Wetlands,12,190,LC_190,6,marshelder
+Woody Wetlands,12,190,LC_190,6,other
+Woody Wetlands,12,190,LC_190,6,sumac
+Woody Wetlands,12,190,LC_190,7,goldenrod
+Woody Wetlands,12,190,LC_190,7,other
+Herbaceous Wetlands,13,195,LC_195,0,none
+Herbaceous Wetlands,13,195,LC_195,1,creeper
+Herbaceous Wetlands,13,195,LC_195,2,creeper
+Herbaceous Wetlands,13,195,LC_195,2,other
+Herbaceous Wetlands,13,195,LC_195,3,other
+Herbaceous Wetlands,13,195,LC_195,4,marshelder
+Herbaceous Wetlands,13,195,LC_195,4,other
+Herbaceous Wetlands,13,195,LC_195,5,marshelder
+Herbaceous Wetlands,13,195,LC_195,5,other
+Herbaceous Wetlands,13,195,LC_195,6,marshelder
+Herbaceous Wetlands,13,195,LC_195,6,other
+Herbaceous Wetlands,13,195,LC_195,7,other

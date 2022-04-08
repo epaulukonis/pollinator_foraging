@@ -1,0 +1,14 @@
+Crop,SubClass,CDLClass,CDLName
+Cultivated Crops,1,1,LC_1
+Grassland/Pasture/Hay,2,176,LC_176
+Shrubland,3,152,LC_152
+"Developed, Open Space",4,121,LC_121
+"Developed, Low Intensity",5,122,LC_122
+"Developed, Medium Intensity",6,123,LC_123
+"Developed, High Intensity",7,124,LC_124
+Barren,8,131,LC_131
+Deciduous Forest,9,141,LC_141
+Evergreen Forest,10,142,LC_142
+Mixed Forest,11,143,LC_143
+Woody Wetlands,12,190,LC_190
+Herbaceous Wetlands,13,195,LC_195
