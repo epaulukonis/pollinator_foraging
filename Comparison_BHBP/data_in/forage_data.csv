@@ -1,0 +1,4 @@
+﻿Type,Value,Plant,Units,Name
+Pollen,0.2,All,g_per_m2,Pollen_g_m2
+Nectar,0.2,All,ml_per_m2,Nectar_ml_per_m2
+Nectar_sugar,1.5,All,mol_per_l,concentration
