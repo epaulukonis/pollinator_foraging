@@ -9,7 +9,7 @@ lc_names<-read.csv(file = file.path(root_data_in, "LC_crosswalk.csv"))
 
 output<-list()
 for(lc in 1:length(list_clump)){
-
+lc=1
 dar<-list_clump[[lc]] #individual LC class
   
   #patch area 
@@ -69,10 +69,14 @@ dar<-list_clump[[lc]] #individual LC class
     list_by_patch_all[[patch]]<-x
   }
   
-  landcover_patches_all<-
-  
 output[[lc]]<-list_by_patch_all
   
 }
 
+##tom had discussed using a simple approach to look at the spatial difference of beehave
+##by varying a simple patch distance/size; you wouldn't necessarily have to do this via spatial stuff
 
+
+##mostly more complex realism 
+
+##plan: create habitat file that does represent a more complex landscape 
